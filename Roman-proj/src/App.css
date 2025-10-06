@@ -1,0 +1,10 @@
+.app-background {
+ background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+ /* semi-transparent white */
+ /* transparent blue */
+
+ /* Change this line to try different styles */
+  min-height: 100vh;
+  color: #fff;
+  padding: 1rem;
+}
